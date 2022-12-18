@@ -1,5 +1,7 @@
-.my-style {
-    color: hotpink;
-    background-color: aqua;
-    padding: 4px;
+body {
+    background-color: aquamarine;
+}
+
+h1 {
+    background-color: purple;
 }
