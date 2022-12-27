@@ -1,7 +1,12 @@
 body {
-    background-color: aquamarine;
-}
+
+    background: repeating-radial-gradient(
+    purple 0%,
+    rgb(70, 3, 96) 15%,
+    green 33%
+    )
+};
 
 h1 {
-    background-color: purple;
+    background: linear-gradient(125deg, green,indigo)
 }
